@@ -1,0 +1,4 @@
+#Sun Jan 16 20:05:41 EET 2022
+base.0=/Users/ahmedabdelkaderkhedr/Downloads/flutter_circular_animator-master/example/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
